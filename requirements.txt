@@ -1,0 +1,26 @@
+# Core
+numpy
+pandas
+scipy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+statsmodels
+
+# Jupyter
+jupyter
+jupyterlab
+ipykernel
+
+# Performance / Data
+polars
+pyarrow
+
+# Utils
+python-dotenv
+tqdm

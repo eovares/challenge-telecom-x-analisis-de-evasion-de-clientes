@@ -1,0 +1,17 @@
+{
+  "python.defaultInterpreterPath": ".venv/bin/python",
+  "python.analysis.typeCheckingMode": "basic",
+
+  "python.formatting.provider": "black",
+  "editor.formatOnSave": true,
+
+  "python.sortImports.args": ["--profile", "black"],
+
+  "jupyter.askForKernelRestart": false,
+  "jupyter.runStartupCommands": [
+    "%load_ext autoreload",
+    "%autoreload 2"
+  ],
+
+  "jupyter.interactiveWindow.textEditor.executeSelection": true
+}
